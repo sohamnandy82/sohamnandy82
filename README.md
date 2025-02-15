@@ -1,4 +1,24 @@
-## Hi there 👋
+##  Hey there! I'm Soham Nandy 👋
+
+##  Full-Stack Enthusiast by day ☀️, Food Endulger by night 🌙
+
+🚀 Front-end | Back-end | Full-stack Developer  
+💡 Passionate about building scalable web and full-stack applications and solving real-world problems with clean, efficient code.
+
+💻 Tech Stack:  
+Frontend: React.js, Next.js, Material-UI, Tailwind CSS  
+Backend: Node.js, Express.js, MongoDB, PostgreSQL  
+Full-Stack: MERN Stack (MongoDB, Express, React, Node)  
+Other: Git, REST APIs, Firebase, GraphQL
+
+🌟 What I'm Working On:  
+🔹 Building LetsChat – a real-time messaging app  
+🔹 Improving my knowledge & learning about full-stack systems  
+🔹 Expanding my GitHub portfolio with full-stack projects
+
+🔗 Connect with Me:  
+💼 LinkedIn: www.linkedin.com/in/soham-nandy-723a77200  
+📫 Email: sohamnandy1997@gmail.com
 
 <!--
 **sohamnandy82/sohamnandy82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
