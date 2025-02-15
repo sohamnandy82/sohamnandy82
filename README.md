@@ -14,11 +14,8 @@ Other: Git, REST APIs, Firebase, GraphQL
 🌟 What I'm Working On:  
 🔹 Building LetsChat – a real-time messaging app  
 🔹 Improving my knowledge & learning about full-stack systems  
-🔹 Expanding my GitHub portfolio with full-stack projects
 
-🔗 Connect with Me:  
-💼 LinkedIn: www.linkedin.com/in/soham-nandy-723a77200  
-📫 Email: sohamnandy1997@gmail.com
+
 
 <!--
 **sohamnandy82/sohamnandy82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
