@@ -9,7 +9,7 @@
 Frontend: React.js, Next.js, Material-UI, Tailwind CSS  
 Backend: Node.js, Express.js, MongoDB, PostgreSQL  
 Full-Stack: MERN Stack (MongoDB, Express, React, Node) 
-Languages: Python, Java, C++, Go
+Languages: Python, Java, C++
 Other: Git, REST APIs, Firebase, GraphQL
 
 🌟 What I'm Working On:  
